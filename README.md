@@ -6,7 +6,7 @@
 
 ### Compiles and run for development
 
-  `npm run serve`
+  `npm run dev`
 
 ### Compiles and minifies for production
  
